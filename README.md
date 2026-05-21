@@ -1,17 +1,15 @@
-# flow_state
+# 🌊 FlowState | Gamified Habit Cultivation Engine
 
-A new Flutter project.
+FlowState is a high-fidelity, premium mobile architecture built with Flutter and Dart designed to transform daily habit execution into an engaging RPG experience. Featuring a dynamic sky-phase rendering engine, advanced local binary caching, fluid micro-interactions, and a localized raid boss subsystem.
 
-## Getting Started
+## ✨ High-Performance Features
+- 🎬 **Branded Splash Sequence:** A native architecture launch mask optimized for clean background database initializes.
+- ☀️🌕 **Contextual Sky-Phase Engine:** Immersive, dynamic linear ambient gradients and layered Gaussian blur auroras that programmatically map to real-world time steps.
+- 💾 **Dual-Box Hive Persistence:** Lightweight, thread-safe local disk cache engine managing separate partitions for habit configurations and player profile stats.
+- ⚔️ **Raid Boss Subsystem ("The Glitch Lord"):** A real-time conditional HUD health matrix tracking daily multi-hit target completions to award bonus experience parameters.
+- 📊 **Matrix Profile Metrics:** Glassmorphic modal analytics overlay displaying historical consistency scores via vector column layouts.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack & Architecture
+- **Framework:** Flutter (Dart UI Lifecycle Management)
+- **Database Architecture:** Hive & Hive Flutter (NoSQL Key-Value Local Disk Partitioning)
+- **Core State Pipelines:** Custom implicit animation controllers, layout constraint builders, and native haptic service bridges.
