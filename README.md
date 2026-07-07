@@ -3,7 +3,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Hive](https://img.shields.io/badge/Hive-NoSQL-yellow?style=for-the-badge)](https://pub.dev/packages/hive)
-[![Status](https://img.shields.io/badge/Build-v2.0.0_Stable-success?style=for-the-badge)](https://github.com/1bitVscoder/flow-state-habit-rpg/releases/tag/v2.0.0)
+[![Status](https://img.shields.io/badge/Build-v2.0.0_Stable-success?style=for-the-badge)](https://github.com/byteWizard-zero/flow-state-habit-rpg/releases/tag/v2.0.0)
 
 > "Transform routine into a quest. Rise through the ranks of self-improvement by gamifying habits, battling bosses, and synchronizing with real-time solar phases."
 
@@ -33,13 +33,13 @@
 
 ### For End Users (Quick APK Install)
 1. Go to the [Releases](../../releases) section of this repository or download directly:
-   * **[Download FlowState v2.0.0 APK](https://github.com/1bitVscoder/flow-state-habit-rpg/releases/download/v2.0.0/FlowState.apk)**
+   * **[Download FlowState v2.0.0 APK](https://github.com/byteWizard-zero/flow-state-habit-rpg/releases/download/v2.0.0/FlowState.apk)**
 2. Open and install the APK on your Android device (ensure "Install from Unknown Sources" is allowed).
 
 ### For Developers (Build from Source)
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/1bitVscoder/flow-state-habit-rpg.git
+   git clone https://github.com/byteWizard-zero/flow-state-habit-rpg.git
    cd flow-state-habit-rpg
    ```
 2. **Install Flutter Dependencies:**
